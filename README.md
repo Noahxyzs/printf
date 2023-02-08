@@ -7,3 +7,5 @@ so in order to fulfill the project given we create some prototypes header file c
 
 we will add comments in the code we develop for further understanding
 this project has about 16 tasks on printf.
+       
+                  this projrct is project is proposed by EPHRATA TESFAYE AND NAOH TESFAYE!
